@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.1",
+  "startedAt": "2025-09-17T05:05:23.024960Z",
+  "program": "C:\\Users\\hp\\OneDrive\\Desktop\\Mlops\\assignment2\\wnb\\train_wandb.py",
+  "codePath": "assignment2\\wnb\\train_wandb.py",
+  "codePathLocal": "train_wandb.py",
+  "git": {
+    "remote": "https://github.com/SnehalLY/MLOPS_Assignments.git",
+    "commit": "2ec3fbda63468b23ee73b95fe25878b99381722c"
+  },
+  "email": "snehalyelwande07@gmail.com",
+  "root": "C:\\Users\\hp\\OneDrive\\Desktop\\Mlops\\assignment2\\wnb",
+  "host": "Snehal",
+  "executable": "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "248200032256",
+      "used": "221410398208"
+    }
+  },
+  "memory": {
+    "total": "16368844800"
+  },
+  "writerId": "h2zicu7wg1xy7oapgpmvpohxl079fhme"
+}

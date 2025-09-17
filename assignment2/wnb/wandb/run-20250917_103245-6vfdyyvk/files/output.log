@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\hp\OneDrive\Desktop\Mlops\assignment2\wnb\train_wandb.py", line 22, in <module>
+    wandb.sklearn.log_model(model, "rf_model")
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\lazyloader.py", line 58, in __getattr__
+    return getattr(module, item)
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'wandb.sklearn' has no attribute 'log_model'
