@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7341580d1b3c4345aaa580a9a407ecaa/artifacts
+end_time: 1758607472642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7341580d1b3c4345aaa580a9a407ecaa
+run_name: overjoyed-ray-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758607437114
+status: 4
+tags: []
+user_id: hp
